@@ -1,0 +1,45 @@
+
+.navbar{
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-bottom: 5px;
+    border-color: black;
+
+}
+
+.header{
+    text-align: center;
+    color:maroon;
+}
+
+
+.sub-header{
+    text-align: center;
+    color:navy;
+}
+.card{
+    display: block;
+    margin: auto;
+    width: 60%;
+    border-radius: 1em;
+    background-color: lightsteelblue;
+    margin-bottom: 2em;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.paragraph{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+.address{
+    margin-bottom: 1em;
+}
